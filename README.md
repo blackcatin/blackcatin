@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Firlan Umi Azzakiy</h1>
+<h1 align="center">Hi 👋, I'm Firlana Umi Azzakiy</h1>
 <h3 align="center">Software & Web Developer | Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackcatin&label=Profile%20views&color=0e75b6&style=flat" alt="blackcatin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackcatin" alt="blackcatin" /></a> </p>
 
 - 🔭 I’m currently studying at **Universitas Darussalam Gontor**
 
