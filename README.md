@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firlana Umi Azzakiy</h1>
-<h3 align="center">Software & Web Developer | Indonesia 🇮🇩</h3>
+![Firlanaumi](img/Firlanaumi.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackcatin&label=Profile%20views&color=0e75b6&style=flat" alt="blackcatin" /> </p>
 
