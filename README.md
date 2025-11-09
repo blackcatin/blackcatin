@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Firlana Umi Azzakiy</h1>
 <h3 align="center">Software & Web Developer | Indonesia 🇮🇩</h3>
 
-<p align="center">
+<div align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=blackcatin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake.svg" />
+  </picture>
+</div>
 
 - 🔭 I’m currently studying at **Universitas Darussalam Gontor**  
 - 🌱 I’m passionate about **AI, Web Development, Software Engineering**  
@@ -48,7 +55,7 @@
 
 ### 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr >
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=blackcatin&show_icons=true&locale=en" alt="GitHub Stats" />
