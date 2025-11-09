@@ -64,14 +64,5 @@
   </tr>
 </table>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=blackcatin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" alt="Trophy" />
-</p>
-
-
 
 
