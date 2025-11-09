@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **Universitas Darussalam Gontor**  
 - 🌱 I’m passionate about **AI, Web Development, Software Engineering**  
-- 💬 Ask me about **Python, PHP, JavaScript, HTML, CSS, Laravel**  
+- 💬 Ask me about **Python, PHP, JavaScript, HTML, CSS, React**  
 - 📫 How to reach me: **umifirlana4@gmail.com**  
 - ⚡ Fun fact: **I think I am funny**  
 
